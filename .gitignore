@@ -5,6 +5,8 @@ node_modules
 out
 dist
 *.tgz
+/.svelte-kit
+/build
 
 # code coverage
 coverage
