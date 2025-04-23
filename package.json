@@ -1,0 +1,11 @@
+{
+  "name": "gushikawa-baptist-church",
+  "version": "1.0.0",
+  "workspace": ["packages/*"],
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
