@@ -1,7 +1,7 @@
 {
   "name": "gushikawa-baptist-church",
   "version": "1.0.0",
-  "workspace": ["packages/*"],
+  "workspaces": ["packages/*"],
   "devDependencies": {
     "@types/bun": "latest"
   },
